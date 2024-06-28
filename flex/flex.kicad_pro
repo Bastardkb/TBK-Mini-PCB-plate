@@ -185,8 +185,8 @@
         0.0,
         0.13,
         0.15,
-        1.524,
-        2.35
+        0.3,
+        1.524
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -485,7 +485,7 @@
         "name": "power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.22,
+        "track_width": 0.3,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6

@@ -33,3 +33,5 @@ flex/flex-backups/*
 
 # Project specific files
 flex/*.lck
+flex/#*
+flex/_autosave*
